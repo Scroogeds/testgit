@@ -10,5 +10,6 @@ public class Hello {
 
     public static void main(String[] args) {
         System.out.println("ceshi");
+        System.out.println("ceshi2");
     }
 }
