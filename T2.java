@@ -7,4 +7,5 @@
  * @since 2023/2/7 14:21
  */
 public class T2 {
+    String a = "1";
 }
